@@ -1,6 +1,6 @@
 
 # Telegram OTP Bot with Caller ID Spoofer
-Deluxe OTP Bot on Telegram for SMS / OTP Codes Grabbing and Bypass | https://t.me/deluxeotpbot | Victim will get call from real bank support line (actually it's from otp bot), will dial the otp code and telegram bot will send the code to us directly on telegram bot chat.
+Deluxe OTP Bot on Telegram for SMS / OTP Codes Grabbing and Bypass | https://t.me/deluxe_otp_bot | Victim will get call from real bank support line (actually it's from otp bot), will dial the otp code and telegram bot will send the code to us directly on telegram bot chat.
 
 ## The Game Changer: What is an Telegram OTP Bot?
 
@@ -20,7 +20,7 @@ Within 5 minutes, we will send you a link via SMS so that you can reactivate you
 
 *As you can see, otp bots do not actually bypass otp codes directly, they deceive people and steal the codes as if they were a real bank customer representative, then send them to the user via telegram, in this case, you are the user).*
 
-<a href="https://t.me/deluxeotpbot"><img src="https://i.ibb.co/ZGMb8fL/photo-7872629392375942506-o.jpg" alt="deluxe otp bot on telegram" border="0"></a>
+<a href="https://t.me/deluxe_otp_bot"><img src="https://i.ibb.co/ZGMb8fL/photo-7872629392375942506-o.jpg" alt="deluxe otp bot on telegram" border="0"></a>
 
 ### A Quick Look at The Features of OTP Bot
 
@@ -32,8 +32,8 @@ Within 5 minutes, we will send you a link via SMS so that you can reactivate you
 
 #### How Can I Access to Deluxe OTP Bot?
 
-📌 Here is the our only official telegram otp bot address: https://t.me/deluxeotpbot \
-✔️ If u wanna contact with the owner: https://t.me/ownerdeluxe
+📌 Here is the our only official telegram otp bot address: https://t.me/deluxe_otp_bot \
+✔️ If u wanna contact with the owner: https://t.me/thatdeluxe
 >[!NOTE]
 Our Official Telegram Otp Bot Link and Owner's Telegram Username is like attached, \
 We Don't Have Any Other Telegram Bot, Username, Support or Anything. 
